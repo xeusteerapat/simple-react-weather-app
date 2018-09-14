@@ -1,5 +1,4 @@
-# react-boiler-plate-by-tylerM
-React boilerplate setup tutorial by Tyler Mcginnis.
+#Example Weather App API
 
 
 npm install
