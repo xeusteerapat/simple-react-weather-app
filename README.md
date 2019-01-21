@@ -1,5 +1,6 @@
-#Example Weather App API
+# Example Weather App API
 
 
-npm install
-npm start
+npm install  
+npm start  
+
